@@ -67,11 +67,7 @@ body {
     list-style: none;
 }
 
-h1:hover,
-h2:hover,
-h3:hover,
-h4:hover,
-.logo:hover {
+h1:hover, h2:hover, h3:hover, h4:hover, .logo:hover {
     background: linear-gradient(90deg,#ff4d4d,#ffcc00,#4dff88,#4da6ff,#b84dff);
     background-size: 300% 300%;
     background-clip: text;
@@ -92,11 +88,7 @@ p:hover {
     transform: scale(1.02) rotate(-1deg);
 }
 
-.hero-left p,
-.faq-item p,
-.trends-item p,
-.latest-item p,
-.faq-header p {
+.hero-left p, .faq-item p, .trends-item p, .latest-item p, .faq-header p {
     font-weight: 400;
     color: var(--grey-40);
     line-height: 150%;
