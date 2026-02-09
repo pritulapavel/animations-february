@@ -300,7 +300,7 @@ nav a, .main, .trends-icon, footer .footer-wrapper  {
     inset: 0;
     border: 2px solid var(--dark-25);
     animation: move-border 0.7s linear infinite;
-}
+} 
 
 .shop-btn::after {
     content: url('../img/icons/arrow-right-top.png');
