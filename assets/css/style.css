@@ -1103,16 +1103,11 @@ footer:hover p::after {
 
     footer .footer-wrapper { padding: 30px 0; }
     footer .footer-wrapper .wrapper {
-        flex-direction: column;
-        gap: 30px;
-    }
-
-    footer .footer-wrapper .wrapper {
         flex-wrap: wrap;
-        gap: 40px;
+        gap: 30px;
         justify-content: center;
         text-align: center;
-                overflow: hidden;
+        overflow: hidden;
     }
 
     footer .footer-wrapper .logo { font-size: 3.5em; }
